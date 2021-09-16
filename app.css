@@ -4,7 +4,7 @@
   fill: none;
   stroke-width: 3;
   stroke-linejoin: round;
-  stroke-dasharray: 70 330;
+  stroke-dasharray: 30 215;
   stroke-dashoffset: 0;
   -webkit-animation: stroke 6s infinite linear;
   animation: stroke 6s infinite linear;
