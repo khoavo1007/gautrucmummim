@@ -51,7 +51,8 @@ html, body {
 }
 
 body {
-  background-image: url(./daLat.jpg);
+  background-image: url(./beHeu.jpg);
+  background-repeat: no-repeat;
   background-attachment: fixed;
   background-position: center;
   background-size: cover;
