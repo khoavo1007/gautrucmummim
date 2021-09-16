@@ -51,8 +51,10 @@ html, body {
 }
 
 body {
-  background: #111;
-  background-size: 0.2em 100%;
+  background-image: url(./daLat.jpg);
+  background-attachment: fixed;
+  background-position: center;
+  background-size: cover;
   font: 5em/1 Open Sans, Impact;
   text-transform: uppercase;
   margin: 0;
