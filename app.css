@@ -10,7 +10,7 @@
   animation: stroke 6s infinite linear;
 }
 .text:nth-child(7n+1) {
-  stroke: #000000;
+  stroke: #ADFF2F;
   -webkit-animation-delay: -0.8571428571s;
   animation-delay: -0.8571428571s;
 }
